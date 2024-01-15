@@ -1,5 +1,4 @@
-# TxtReader
-# 单一导入txt进行阅读
+# TxtReader，单一导入txt进行阅读
 # 截图如下
 #功能一：导入入口![img.png](img.png)
 #功能二三四：阅读界面，阅读进度，目录 ![WechatIMG62.jpg](WechatIMG62.jpg)
